@@ -1,3 +1,4 @@
 # demo1
 Learning how to use Git in Github
-Matthew Trice Period 2
+Lane Tech Period 2
+Matthew Trice
